@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Joogard</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_sign_in_here">Already have an account? Sign in here.</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign in</string>
+    <string name="not_registered_sign_up_here">Not Registered? Sign up here.</string>
+    <string name="welcome_to_joogard">Welcome to Joogard</string>
+    <string name="log_out">Log out</string>
+    <string name="log_in">Log In</string>
+    <string name="register_now">Register Now</string>
+    <string name="sign_up_with_google">Sign Up with Google</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="hack_category_1">Hack Category 1</string>
+    <string name="welcome_to_hack1">welcome_to_hack1</string>
+    <string name="loadnote">loadNote</string>
+    <string name="my_notes">My Notes</string>
+    <string name="load_hack">load_hack</string>
+    <string name="money_saving">money_saving</string>
+    <string name="joogard">joogard</string>
+    <string name="add_notes">add_notes</string>
+    <string name="health_and_fitness">health_and_fitness</string>
+    <string name="register_here">Register_here</string>
+</resources>
